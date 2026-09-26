@@ -5,6 +5,11 @@ All notable changes to stuxmusic.github.io are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.0.2
+
+### Added
+- `.gitignore` for OS/editor cruft, local `.env` overrides, and `node_modules/`
+
 ## v1.0.1
 
 ### Fixed
