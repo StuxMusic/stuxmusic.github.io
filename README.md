@@ -26,6 +26,8 @@ To change where it goes, edit both URLs in `index.html`. See [CONTRIBUTING.md](C
 
 This project uses [Date Versioning](https://datevers.ing): each release is numbered by its UTC release date as `YY.MM.DD` (for example `26.10.23`), with `-1`, `-2`… for later releases the same day. See [CHANGELOG.md](CHANGELOG.md) for what changed in each release.
 
+Work happens on the `test` branch: releases are committed and tagged there, and go live when Leo merges its pull request into `main`. See [CONTRIBUTING.md](CONTRIBUTING.md#branches).
+
 ## Copyright
 
 Copyright © 2026 Stux.Group. All rights reserved.
