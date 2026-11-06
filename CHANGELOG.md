@@ -5,6 +5,19 @@ All notable changes to stuxmusic.github.io are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.06
+
+### Changed
+
+- The README describes this repo as what it is, Stux.Music's own GitHub Pages redirect to github.com/StuxMusic, instead
+  of a generic "redirect your username.github.io" template with `example.com` setup steps
+- The README and CONTRIBUTING logos follow GitHub's light or dark theme (`<picture>` with the brand's `logo-light`/`logo-dark` files)
+- The README's footer uses the current Stux.Music footer, and its License section is now a Copyright section naming Stux.Group
+
+### Removed
+
+- The README's claim that the redirect preserves URL paths: the meta refresh always goes to github.com/StuxMusic
+
 ## v26.10.23
 
 ### Added
